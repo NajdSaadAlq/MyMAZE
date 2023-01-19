@@ -393,6 +393,7 @@
 "Assets/PlayerMove/Script/CollidingWithStuff.cs"
 "Assets/PlayerMove/Script/IfStatementsDemo.cs"
 "Assets/PlayerMove/Script/PlayerMove.cs"
+"Assets/TriggerStuff.cs"
 -langversion:9.0
 
 /deterministic

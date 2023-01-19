@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class CollidingWithStuff : MonoBehaviour
 {
-   // private int playerHealth = 3;
-    [SerializeField] private int playerHealth = 3;
+
+   [SerializeField] private int playerHealth = 6;
 
 
 
