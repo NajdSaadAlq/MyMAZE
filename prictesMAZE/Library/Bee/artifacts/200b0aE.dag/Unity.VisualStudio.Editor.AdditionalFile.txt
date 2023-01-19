@@ -1,1 +1,1 @@
-/Users/najd/Unity Game & Github/MAZE.basic/prictesMAZE
+/Users/najd/Unity Game & Github/MyMAZE/prictesMAZE
